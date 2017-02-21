@@ -1,0 +1,5 @@
+EXPORTS
+    Sum
+    Hello
+    GetStr
+    GetBytes
